@@ -7,9 +7,7 @@ help: "make a mark down file for each student"
 
 # Team 15
 Description: Cool kids - Professional Software Developers
-
-
-Bunch of chads doing github stuff
+Junior developers trying to learn Github
 
 ## Team Members
 Mik,
